@@ -10,7 +10,7 @@ To view the portfolio:
 
 1. Clone the repository:
     ```sh
-    git clone [https://github.com/yourusername/your-portfolio-repo.git](https://github.com/DAKOUMA/car-Rental.git)
+    git clone https://github.com/DAKOUMA/car-Rental.git
     ```
 ## Features
 
@@ -29,7 +29,8 @@ To view the portfolio:
 - React
 - Framer-Motion
 - Tailwindcss
+
 ## Contact Information
 
-- **Email:** your-email@example.com
+- **Email:** ramerison.anselme@gmail.com
 - **LinkedIn:** [Ramerison Anselme]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/anselme-ramerison-066999186/))
