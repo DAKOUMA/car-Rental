@@ -1,0 +1,13 @@
+.date-picker > div {
+  width: -moz-fit-content;
+  width: fit-content;
+}
+.date-picker > div > input {
+  color: #3FB6F0;
+  border: solid #cacaca 1px;
+  height: 2.2rem;
+}
+.date-picker > div > input:focus {
+  outline-color: #3FB6F0;
+  box-shadow: none;
+}/*# sourceMappingURL=style.css.map */
