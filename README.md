@@ -1,8 +1,35 @@
-# React + Vite
+# CAR RENT PORTFOLIO
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+This portfolio includes my professional projects, personal projects. It is designed to give you an overview of my skills, experience, and interests.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
+
+To view the portfolio:
+
+1. Clone the repository:
+    ```sh
+    git clone [https://github.com/yourusername/your-portfolio-repo.git](https://github.com/DAKOUMA/car-Rental.git)
+    ```
+## Features
+
+- Responsive design
+- Detailed project descriptions
+- Live demos
+- Source code links
+- Easy navigation
+- Contact form
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Framer-Motion
+- Tailwindcss
+## Contact Information
+
+- **Email:** your-email@example.com
+- **LinkedIn:** [Ramerison Anselme]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/anselme-ramerison-066999186/))
