@@ -1,5 +1,5 @@
 # CAR RENT PORTFOLIO
-[screenshot of portfolio](https://i.imgur.com/UW6sbeo.png)
+[screenshot of portfolio](./src/assets/carRental.png)
 ## Description
 
 This portfolio includes my professional projects, personal projects. It is designed to give you an overview of my skills, experience, and interests.
